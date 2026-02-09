@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\bin\Release\net10.0\AutoCert.WebhookHandler.deps.json
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\bin\Release\net10.0\AutoCert.WebhookHandler.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\bin\Release\net10.0\AutoCert.WebhookHandler.pdb
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.sourcelink.json
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\refint\AutoCert.WebhookHandler.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\AutoCert.WebhookHandler.pdb
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.WebhookHandler\obj\Release\net10.0\ref\AutoCert.WebhookHandler.dll

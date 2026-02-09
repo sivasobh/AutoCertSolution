@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoCert.API/AutoCert.API.csproj" />
+    <Project Path="src/AutoCert.CertificateMonitoring/AutoCert.CertificateMonitoring.csproj" />
+    <Project Path="src/AutoCert.CertificateRenewal/AutoCert.CertificateRenewal.csproj" />
+    <Project Path="src/AutoCert.Common/AutoCert.Common.csproj" />
+    <Project Path="src/AutoCert.WebhookHandler/AutoCert.WebhookHandler.csproj" />
+  </Folder>
+</Solution>

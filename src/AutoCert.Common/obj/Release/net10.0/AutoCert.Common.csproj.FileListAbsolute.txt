@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\bin\Release\net10.0\AutoCert.Common.deps.json
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\bin\Release\net10.0\AutoCert.Common.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\bin\Release\net10.0\AutoCert.Common.pdb
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.sourcelink.json
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\refint\AutoCert.Common.dll
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\AutoCert.Common.pdb
+C:\Users\USER\OneDrive\Documents\AutocertSolution\src\AutoCert.Common\obj\Release\net10.0\ref\AutoCert.Common.dll
