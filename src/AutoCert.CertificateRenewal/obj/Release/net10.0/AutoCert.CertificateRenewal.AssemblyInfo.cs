@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoCert.CertificateRenewal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b0b326a718fda70a1d2b5de02283715ac54d150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+576ed6da2654bb4c7258e254602fa651adffb512")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoCert.CertificateRenewal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoCert.CertificateRenewal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
