@@ -1,6 +1,12 @@
 ﻿namespace AutoCert.WebhookHandler;
 
-public class Class1
+/// <summary>
+/// Handler for processing webhook events from certificate providers.
+/// </summary>
+public interface IWebhookProcessor
 {
-
+    /// <summary>
+    /// Processes incoming webhook events.
+    /// </summary>
+    Task ProcessWebhookAsync(object webhookData, CancellationToken cancellationToken = default);
 }

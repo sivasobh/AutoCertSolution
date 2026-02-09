@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCert.API", "src\AutoCert.API\AutoCert.API.csproj", "{CC6B9181-7814-42A0-2AF5-2E3066B83B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCert.CertificateMonitoring", "src\AutoCert.CertificateMonitoring\AutoCert.CertificateMonitoring.csproj", "{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCert.CertificateRenewal", "src\AutoCert.CertificateRenewal\AutoCert.CertificateRenewal.csproj", "{5B9F0ADC-2873-6415-BA06-359FA69F9DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCert.Common", "src\AutoCert.Common\AutoCert.Common.csproj", "{178362D2-8A29-F150-A07F-FB04DB1FF71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCert.WebhookHandler", "src\AutoCert.WebhookHandler\AutoCert.WebhookHandler.csproj", "{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6B9181-7814-42A0-2AF5-2E3066B83B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6B9181-7814-42A0-2AF5-2E3066B83B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6B9181-7814-42A0-2AF5-2E3066B83B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6B9181-7814-42A0-2AF5-2E3066B83B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9F0ADC-2873-6415-BA06-359FA69F9DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9F0ADC-2873-6415-BA06-359FA69F9DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9F0ADC-2873-6415-BA06-359FA69F9DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9F0ADC-2873-6415-BA06-359FA69F9DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178362D2-8A29-F150-A07F-FB04DB1FF71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178362D2-8A29-F150-A07F-FB04DB1FF71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178362D2-8A29-F150-A07F-FB04DB1FF71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178362D2-8A29-F150-A07F-FB04DB1FF71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC6B9181-7814-42A0-2AF5-2E3066B83B8D} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{47B8772A-F7A1-13C5-BBCD-4AEB5AA32A12} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{5B9F0ADC-2873-6415-BA06-359FA69F9DEE} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{178362D2-8A29-F150-A07F-FB04DB1FF71E} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{3DE15593-BB5B-F05D-CA4D-C8FBEE34A160} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F377EF2-E40F-457A-9D3E-8737302515FB}
+	EndGlobalSection
+EndGlobal
